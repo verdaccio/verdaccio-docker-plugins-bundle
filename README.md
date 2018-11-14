@@ -1,0 +1,1 @@
+# verdaccio-docker-plugins-bundle
